@@ -8,7 +8,7 @@
                 <div class="row">
                     <div class="col-md-4">
                         <div class="profile-img">
-                            <img src="khoa.jpg" alt=""/>
+                            <img src="khoa.jpg" alt="" width="300" height="200"/>
                             <div class="file btn btn-lg btn-primary">
                             </div>
                         </div>
@@ -16,18 +16,12 @@
                     <div class="col-md-6">
                         <div class="profile-head">
                                     <h5>
-                                        Huỳnh Thiên Kim
+                                        Phan Anh Khoa
                                     </h5>
-                                    <h6>
-                                        Web Developer and Designer
-                                    </h6>
-                                    <p class="proile-rating">RANKINGS : <span>10/10</span></p>
+                                    <p class="proile-rating">RANKINGS : <span>9/10</span></p>
                             <ul class="nav nav-tabs" id="myTab" role="tablist">
                                 <li class="nav-item">
                                     <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">About</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Timeline</a>
                                 </li>
                             </ul>
                         </div>
@@ -39,7 +33,7 @@
                     <div class="col-md-4">
                         <div class="profile-work">
                             <p>WORK LINK</p>
-                            <a href="https://www.facebook.com/hthkim0812">Facebook Link</a><br/>
+                            <a href="https://www.facebook.com/profile.php?id=61553709046381&locale=vi_VN">Facebook Link</a><br/>
                         </div>
                     </div>
                     <div class="col-md-8">
@@ -50,7 +44,7 @@
                                                 <label>Số thứ tự</label>
                                             </div>
                                             <div class="col-md-6">
-                                                <p>10</p>
+                                                <p>11</p>
                                             </div>
                                         </div>
                                         <div class="row">
@@ -58,7 +52,7 @@
                                                 <label>Tên</label>
                                             </div>
                                             <div class="col-md-6">
-                                                <p>Huỳnh Thiên Kim</p>
+                                                <p>Phan Anh Khoa</p>
                                             </div>
                                         </div>
                                         <div class="row">
